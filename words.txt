@@ -16,6 +16,7 @@ algorithm
 correct
 suggestion
 environment
+simple
 machine
 learning
 artificial
