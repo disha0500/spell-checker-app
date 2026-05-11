@@ -51,9 +51,8 @@ The application will open in your browser at:
 http://localhost:8501
 🌐 Live Demo
 
-Add your deployed Streamlit link here:
-
-https://your-app-name.streamlit.app
+ Deployed Streamlit link here:
+https://spell-checker-app-hr35gfp55lcznbpdzah96j.streamlit.app/
 📖 How It Works
 User enters a word
 Application compares the word with dictionary words
